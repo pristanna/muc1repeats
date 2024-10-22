@@ -115,7 +115,7 @@ GCCCACGGTGTCACCTCGGCCGGCCCCGGGCTCCACCGCCCCCCCA	X:18_31delGGCCCCGGACACCA
 **List of all repeats that were identified in the _MUC1_ gene (as a Python dictionary)**
 
 Please note:
-* ¨'" sign in pre/afterrepats was changed to "+"
+* "'" sign in pre/afterrepats was changed to "+"
 * ":" sing was changed to "-"
 
 known_repeats = {
