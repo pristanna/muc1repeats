@@ -9,7 +9,7 @@ If you identified in your study a new MUC1 repeat, please contact us and we will
 
 Please provide your contact info in case we need more information about your submission. 
 
-known_repeats = {
+
     'GCCCACGGTGTCACCTCGGCCCCGGAGAGCAGGCCGGCCCCGGGCTCCACCGCGCCCGCA' : 'A',
     'GCCCACGGTGTCACCTCGGCCCCGGAGAGCAGGCCGGCCCCGGGCTCCACCGCCCCCCCA' : 'B',
     'GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCAA' : 'C',
