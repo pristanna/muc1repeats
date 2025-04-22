@@ -1,6 +1,9 @@
 # MUC1 repeats
 
 If you identified in your study a new MUC1 repeat, please contact us and we will add it to the list. 
+
+You can contact us: 
+
 * via Issues
 * by email to pristanna(at)email(dot)cz
 * by contributing to the repository
@@ -106,10 +109,6 @@ GCCCACGGTGTCACCTCGGCCCCGGAGAGCAGGCCGGCCCCGGGCTCCACCGCCATCCCCA	aH:54insA
 GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCCCCA	X:56_59dupCCCC
 GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCGCCGGCCCCGGGCTCCACCGCCCCCCCA	X:33_48dupGCCGGCCCCGGGCTCC
 GCCCACGGTGTCACCTCGGCCGGCCCCGGGCTCCACCGCCCCCCCA	X:18_31delGGCCCCGGACACCA
-
-**List of all repeats that were identified in the _MUC1_ gene (as an image)**
-
-![image](https://github.com/user-attachments/assets/c1647108-058d-4d2b-987f-6bd26de2f6ce)
 
 
 **List of all repeats that were identified in the _MUC1_ gene (as a Python dictionary)**
