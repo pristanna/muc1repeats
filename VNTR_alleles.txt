@@ -1,0 +1,215 @@
+1 2 3 4 5  X D E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 aJ X D E C X X X A A B D E C X aF aI A A B D E X A A B X X X X A A B aD E C X X X A A B X X X X X X A A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C aN D E C F X X A B D E C X X X A A B X X X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X aK E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X aK E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D C T X A B D E C X X X A G B X X X X X X X X E C X X X A A B X X X X X X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4' 5 C X D C X X X A A B X X X X B A A B B X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4' 5 C X D C X X X A A B X X X X B A A B X X X X X X X G A B B X X X X V 6 7 8 9 
+1 2 3 4' 5 C X D C X X X A A B X X X X B A A B X X X X X X X G A B X X X X X X X 6 aO 8 9 
+1 2 3 4' 5 C X D C X X X A A B X X X X B A A B X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4' 5 C X D C X X X A A B X X X X B A A B X X X X X X X G A B X X X X X X X X 6 7 8 9 
+1 2 3 4' 5 C X D C X X X A A C C X D C X X X A A B X X X X B A A B X X X X X X X X V 6 7 8 9 
+1 2 3 4' 5 C X D C X X X G A B X X X X B A A B X X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4' 5 C X D C X X X:59dupC A A B X X X X B A A B X X X X X X X G A B B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E aX F X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F bC X A B D E C X X X A A B X X X X X G A B X X X X X G A B B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A A B D E C X X X A A B X X X X X X G A B X X X V 6' 7 8 9
+1 2 3 4 5 C X D E C F X X A B D E C Q X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X B X A A B X X X X X X G A N R X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A A B X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A A B X X G A B X X X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A A B X X X X X X G A B X X X X X X V 6' aS 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A G B X X X X G A B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A G B X X X X G bG B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X W A G B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X B X X X X G A B X X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X G A B X X X X X G A B B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X aR G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X G A B X X X X G B V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X G A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A N R X X X G A B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G A N R X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X G G B X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A A B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X G A B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E C X X X X X X X X G A B X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B D E:23dupC C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B E C X X bK A B X X X X X X bL A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B B X X G B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X X X aY A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X X X G A B X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X D E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B:59dupC D E C X X X A A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X A B:59dupC X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X X:18_31delGGCCCCGGACACCA A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C F X:59dupC X A B D E C X X X A A B X X X X X X G A N R X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X A B X A B D E C X X X A A B X X X X X V V 6' 7 8 9
+1 2 3 4 5 C X D E C X bB X A A B X X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X aH:54_55insA X A A B X X X X X X X X X X E C X X X G A B X X X X X X X X X X V V I G J B B X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X E C X X X G G B X X X X X X X X X X V V V G J B B X X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X X E C X X X G A B X X X X X X X X X X V V I G J B B X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X X E C X X X G G B X X X X X bH X X X X V V V G J B B X X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X X E C X X X G G B X X X X X X X X X X V V I G J B X X X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X X E C X X X G G B X X X X X X X X X X V V V G J B B X X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B D E C X B X A A B X X X X X X X X X X E C X X X G G B X X X X X X X X X X X V V V G J B B X X X X X V 6' 7' 8 9 
+1 2 3 4 5 C X D E C X H X A A B:59dupC D E C X X X A A B X X X X X E C X X X A A B X X X X X X X X X X X X X X V X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X H X A B D E C X X X A A B X X X X X X X X E C X X X A A B X X X X X X X X A J B X X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A A B X B X X X X X G bJ:54_55insG X X X X X A A B X X X X X I X A J B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A A B X X X X X A J B X X X X X X X X 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A A B X X X X X X X X E C X X X A A B X X X X X X X I X A J B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A A B X X X X X X X X E C X X X A A B X X X X X X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A A B X X X X X X X X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A G B X X X X X X X X E C X X X A A B X X X X X X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X T X A B D E C X X X A G B X X X X X X X X E C:60dupA X X X A A B X X X X X X X X X I X A J B X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X X A A B X X X:59dupC X X A A A B X X X X X A A X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X A A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X B A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X A A A B X X X X X A A X X X X X X X X A A B X X X B B X X G A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X aN X B X X A A B X X X X B A A X X X X X G A B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B A A X X X X B X X A A B X X X X B A A X X X X X G A B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X X B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A B X X X X:59dupC X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B B X X X X A A A X X X X X X A A X X X X X X X X A:23dupC A B X X X X B X X A A B X X X X B A A X X X X X G A B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B D aP C P X X A A B B X X X X X A A X X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X A A A B X X X X X A A X X X X X X X X A A B X X X Q B B X X A A B X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X B B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X X B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X:59dupC B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X:59dupC X B B X X A A B X X X X B A A X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X:59dupC X X A A B X X X X B B X X A A B X X X B A A X X X X X X X G A B X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X A A A B X X X X X:59dupC A A X X X X X X X X A A B X X X X B B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X B A A A B X X X X aW A A X X X X X X X X A A B X X X X B B X G A A B X X X X B A A B X X X X X X G A B X X X X X X X V bD 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X B A A B X X X X X X aU aU B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X B A A B X X X X X X aU G B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X B A A B X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X B A A B X X X X X X G G B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B B X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X X A A B X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X A A X X X X X X X X A A B X X X:59dupC X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B B X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A A B X X X X X X X B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X A B B X X X X X X X B B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X A A B X X X B B X X A A B X X X B A A X X X X X X X G A B X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X A A B X X X X B X O A A B X X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X B B X X:58_59insG A B X X X X X A A X X X X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X G B:58_59insG A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B aE X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B B X X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X bA A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X B X X A A B X X X X B A A X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B B X A A B B X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B B X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X A A B X X X X X A B X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X A A X X X X X X X G A B X B B X X A A B X X X X A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X aZ X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X aZ X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X A A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4''' 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A aT X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X G A B B X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X G A B B X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X:60dupA X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A aV X X X X B A A B X X X B G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4'' 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B:59dupC X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X:59dupC X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X:59dupC X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A B X X X X B B X X A A B X X X X B A aT X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X A A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X X X X X X:59dupC X A A B X X X X B X X A A B X X X X X A A X X X X B G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X A A X X:59dupC X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X X B B X X A A B X X X X X A A B X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X X X X X X X X A A B X X X X B X X A A B X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X X X X X X X X X:59dupC X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X:59dupC X X A A X X X X X X X X A A B X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X X X:59dupC X X A A X X X X X X X X A A B X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4'' 5 C X D E C X X X A A B X X X X X A A A B X X X:59dupC X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X aF X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B X:59dupC X X X X A A X X X X X X X A A B X X X X B X X A A B X X X X X A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A A A B:59dupC X X X X X A A X X X X X X X A A B X X X X B B X X A A B X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X A X A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X G G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X aM A A B X X X X X aM A A B X X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X G A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X G A B X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X:59dupC A A A B X X F X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X X:59dupC A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X:59dupC X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X X X V 6 7 8 9
+1 2 3 4 5 C X D E C X X X A A B X X X X:59dupC X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X X X:59dupC X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X B G A B X X X X X X X X 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B X X:59dupC X X X A A A B X X X X X X X X X X X X X A A X X X X X B X X A A B X X X X B A A X X X X G A B X X X X X X X X V 6 7 8 9 
+1 2 3 4'' 5 C X D E C X X X A A B X:59dupC X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A A B:59dupC X X X X X A A A B X X X X X A A X X X X X X A A B X X X X B X X A A B X X X B A A X X X X X G A B X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A B D E C X X X A A B X X X X A A B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X X X A B X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A B X X X X X A A A B A B X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A B X X X X X A A A B X B X X X X X X X X X A A B X X aI X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A B X X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X A bF D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D E C X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X X:59dupC A A B X X X X X A A A B X X X X X A A X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X:56_59dupCCCC X A B X X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X:59dupC X A A B X X X X X A A A B X X X X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X X:59dupC X A A B X X X X X A A B X X X X X A A X X X X X X X X A A B X X X X B B X A A B X X X X B A A X X X X X X X A A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C X:59dupC bI X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A aT X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4'' 5 C X D E C X:59dupC X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D E C:42_57dupGGGCTCCACCGCCCCC X X X A A B X X X X X A A A B X X X X X X B B X X A A B X X X X X A A B X X X X X G A B X X X X X X X V 6 7 8 9
+1 2 3 4' 5 C X D X A A A A B X X X X B A A B X X X X X X X G A B X X X X X X X X 6 7 8 9 
+1 2 3 4 5 C X D X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V X:33_34insCGGGCCCCGGGCTCCACC X X X X X G A B X X X X V X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V X:33_34insCGGGCCCCGGGCTCCACC X X X X X G A B X X X X V X:33_34insCGGGCCCCGGGCTCCACC X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D X A A B X X X X B X X A A B X X X X B A A X X X X X G A B X X X X X X X V X:33_34insCGGGCCCCGGGCTCCACC X X X X X G A B X X X X V X:33_34insCGGGCCCCGGGCTCCACC X X X X X G A B X X X X X X X X 6 7 8 9 
+1 2 3 4' 5 C X D:59dupC C X X X A A B X X X X B A A B X X X X bE X G A B X X X X X V 6 7 8 9 
+1 2 3 4 5 C X D:59dupC E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9
+1 2 3 4 5 C X D:59dupC E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X D:59dupC E C X T X A B D E C X X X A A B X X X X X X X X X X I X A J B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 C X X A A B X X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A aT X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5 C X:59dupC D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 D E C X T X A B D E C X X X A A B X B X X X X X X E C X X X A A B X X X X X X X I X A J B X X X X X X X V 6' 7 8 9 
+1 2 3 4 5 G B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5 X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4' 5:59dupC  C X D C X X X A A B X X X X B A A B X X X X X X X G A B X X X X X X X V 6 7 8 9 
+1 2 3 4 5:59dupC  C X D E C F X X A B D E C X X X A A B X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5:59dupC  C X D E C F X X A B D E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4 5:59dupC  C X D E C F X X A B X E C X X X A A B X X X X X X G A B X X X X X X V 6' 7 8 9 
+1 2 3 4' 5:59dupC  C X D X A A A A B X X X X B A A B X X X X X X X G A B X X X X X X X X 6 7 8 9 
+1 2 3 4' 5:59dupC C X D X A A A A B X X X X B A A B X X X X X X X G A B X X X X X X X X 6 7 8 9
+1 2 3 4 aC C X D E C X X X A A B X X X X A A A B X X X X X A A X X X X X X X X A A B X X X X B B X X A A B X X X X B A A X X X X X X G A B X X X X X X X V 6 7 8 9 
